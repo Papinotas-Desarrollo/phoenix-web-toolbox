@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SimpleSpinner component with props renders correctly 1`] = `
+<div>
+  <div
+    class="makeStyles-wrapper-2 makeStyles-wrapper-3"
+  >
+    <div />
+  </div>
+</div>
+`;

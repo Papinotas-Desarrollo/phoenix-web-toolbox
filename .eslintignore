@@ -1,0 +1,3 @@
+dist/**/*.js
+babel.config.js
+jest.*.js
