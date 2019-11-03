@@ -3,7 +3,7 @@
   "author": "Papinotas",
   "description": "Components for react",
   "license": "MIT",
-  "version": "0.1.0-alpha.1",
+  "version": "0.1.0-alpha.2",
   "main": "./src/index.js",
   "typings": "./src/index.d.ts",
   "scripts": {
@@ -30,8 +30,8 @@
     "@babel/preset-react": "^7.0.0",
     "@babel/preset-typescript": "^7.3.3",
     "@babel/register": "^7.4.4",
-    "@material-ui/core": "^4.2.0",
-    "@material-ui/styles": "^4.2.0",
+    "@material-ui/core": "^4.5.2",
+    "@material-ui/styles": "^4.5.2",
     "@storybook/addon-actions": "^5.1.9",
     "@storybook/addon-knobs": "^5.1.9",
     "@storybook/addon-links": "^5.1.9",
@@ -62,8 +62,8 @@
     "jest": "^24.8.0",
     "prettier": "^1.18.2",
     "prop-types": "^15.7.2",
-    "react": "^16.8.0",
-    "react-dom": "^16.8.0",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
     "webpack": "^4.36.1"
   },
   "peerDependencies": {
